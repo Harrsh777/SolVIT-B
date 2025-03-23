@@ -1,3 +1,6 @@
+Team 47 , Harsh Srivastava(23BCY10068)
+
+
 🚀 Sellify - Empowering Small Businesses!
 
 Sellify is a powerful platform built to help small businesses thrive by managing inventory 📦, finances 💰, products 🛍, marketplace interactions 🏪, and vendor relations 🤝.
